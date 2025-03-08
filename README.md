@@ -1,7 +1,7 @@
 ## Hi, I'm Cheyne Chen, a Developer 🚀 from China.
 
 **Talking about Personal Stuffs:**
-<img width="55%" align="right" alt="b1ngsha's github stats" src="https://github-readme-stats.vercel.app/api?username=b1ngsha&count_private=true" />
+<img width="40%" align="right" alt="b1ngsha's github stats" src="https://github-readme-stats.vercel.app/api?username=b1ngsha&count_private=true" />
 - 👨🏽‍💻 I’m currently working in [@TencentBlueKing](https://github.com/TencentBlueKing)
 - 🌱 Full-Stack Developer. Always Exploring..
 - 💬 [My Blog](b1ngsha.github.io)
