@@ -1,4 +1,5 @@
 ## Hi, I'm Cheyne Chen.
+![](https://raw.githubusercontent.com/b1ngsha/b1ngsha/output/github-contribution-grid-snake-dark.svg)
 
 - 👨🏽‍💻 I’m currently working at [@TencentBlueKing](https://github.com/TencentBlueKing)
 
